@@ -1,0 +1,9 @@
+.container {
+    margin-top: 3rem;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
